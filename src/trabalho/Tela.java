@@ -164,7 +164,6 @@ public class Tela extends javax.swing.JFrame {
             else{
                 txtArea.append(txt + ".");
             }
-            //C:\\Users\\Piva\\Desktop\\outros\\prova\\Cadastroo.html
         }
 
         ListaEncadeada<String> nmrs = c.contagens;
